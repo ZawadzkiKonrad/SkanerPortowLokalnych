@@ -1,0 +1,30 @@
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.exe.config
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.exe
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.pdb
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csprojAssemblyReference.cache
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner_portów_lokalnych.Form1.resources
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner_portów_lokalnych.Properties.Resources.resources
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csproj.GenerateResource.cache
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csproj.CoreCompileInputs.cache
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.exe
+C:\Users\MDKrauzer\source\repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.exe.config
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csprojAssemblyReference.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner_portów_lokalnych.Form1.resources
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner_portów_lokalnych.Properties.Resources.resources
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csproj.GenerateResource.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csproj.CoreCompileInputs.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.pdb
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.exe.config
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.exe
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\bin\Debug\Skaner portów lokalnych.pdb
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csproj.AssemblyReference.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner_portów_lokalnych.Form1.resources
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner_portów_lokalnych.Properties.Resources.resources
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csproj.GenerateResource.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.csproj.CoreCompileInputs.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.exe
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Skaner portów lokalnych\Skaner portów lokalnych\obj\Debug\Skaner portów lokalnych.pdb
